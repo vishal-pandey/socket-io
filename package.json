@@ -1,0 +1,16 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "libp2p-websockets": "^0.12.2",
+    "socket.io": "^2.2.0"
+  }
+}
